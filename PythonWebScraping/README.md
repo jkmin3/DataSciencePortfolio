@@ -36,7 +36,7 @@ The urls I had gotten were some from other front pages and some were video artic
 
 * `requests`
 * `BeautifulSoup from bs4`
-* __pandas__
-* __re__
-* __time__
+* `pandas`
+* `re`
+* `time`
 
