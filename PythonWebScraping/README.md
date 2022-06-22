@@ -4,7 +4,7 @@ I had scraped a basketball reference site found [here](https://www.basketball-re
 
 I had gathered the 95-96 Bulls team's games in the regular season
 
-### Data
+## Data
 
 * Date
 * Whether or not the Bulls were playing at home 
@@ -24,7 +24,7 @@ This was a much bigger scrape. From BBC New's [home page](https://www.bbc.com/ne
 
 The urls I had gotten were some from other front pages and some were video articles. This is why there are three different csv files.
 
-### Data
+## Data
 
 * Title
 * Text - Written parts of article
@@ -32,11 +32,11 @@ The urls I had gotten were some from other front pages and some were video artic
 * Published Date
 * Url
 
-#### Libraries
+### Libraries
 
-* requests
-* BeautifulSoup from bs4
-* pandas
-* re
-* time
+* `requests`
+* `BeautifulSoup from bs4`
+* __pandas__
+* __re__
+* __time__
 
